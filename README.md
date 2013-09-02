@@ -1,7 +1,7 @@
-getTheSite_SeoIt
+getTheSiteCode_SeoIt
 ================
 
-An educational repo to explore the power of regEx in PHP. In this tutorial , it is shown how to get remote page and analyze it 
+An educational repo to explore the power of regEx in PHP. In this tutorial , it is shown how to get/download a remote webpage and analyze it 
 
                                                                                                                               
  										=======================
